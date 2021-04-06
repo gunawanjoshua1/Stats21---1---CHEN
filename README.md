@@ -1,2 +1,2 @@
 # Stats21---1---CHEN
-Stats 21 Class
+This is a demonstration repository to show how to use git for Stats 21.
